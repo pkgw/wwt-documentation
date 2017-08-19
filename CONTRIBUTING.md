@@ -2,13 +2,14 @@
 
 We would love for you to contribute to our repositories to make WWT easier for others to use and to help others get the most out of WWT. Here are some guidelines:
 
-* Code of Conduct
+* Contributing Agreement
 * Question or problem?
 * Feature request
 * Mistaken, outdated, or missing documentation
 
-## Code of Conduct
-To be written... 
+## Contributing Agreement
+
+By contributing, you agree that we may redistribute your work under our [license](LICENSE). Everyone involved in WorldWide Telescope agrees to abide by our [code of conduct](conduct.md).
 
 ## Question or Problem?
 If you have a question or problem please post it to our (not yet existant) mailing list.
