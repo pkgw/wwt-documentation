@@ -7,7 +7,7 @@ WorldWide Telescope (WWT) is a visualization environment that enables your compu
 
 ## Contributing Agreement
 
-By contributing, you agree that we may redistribute your work under our [license](LICENSE). Everyone involved in WorldWide Telescope agrees to abide by our [code of conduct](conduct.md).
+By contributing, you affirm that you have read our [contributing guide](CONTRIBUTING.md) and agree that we may redistribute your work under our [license](LICENSE). Everyone involved in WorldWide Telescope agrees to abide by our [code of conduct](conduct.md). 
 
 ## Documentation Repositories
 | Documentation | Target Audience | Repository |	Gitbook Site
