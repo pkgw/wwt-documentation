@@ -10,8 +10,9 @@ WorldWide Telescope (WWT) is a visualization environment that enables your compu
 Please read our [contributing guide](CONTRIBUTING.md) 
 
 ## Documentation Repositories
+
 | Documentation | Target Audience | Repository |	Gitbook Site
-|-- |-- |-- | --
+|-- |-- |-- | -- |
 | User Manual |  All WWT Users | [https://github.com/WorldWideTelescope/worldwide-telescope-manual](https://github.com/WorldWideTelescope/worldwide-telescope-manual) | [https://www.gitbook.com/book/worldwidetelescope/worldwide-telescope-user-manual/details](https://www.gitbook.com/book/worldwidetelescope/worldwide-telescope-user-manual/details) |
 | Layer Control API Documentation | Windows Developers | [https://github.com/WorldWideTelescope/WorldWide-Telescope-Layer-Control-API](https://github.com/WorldWideTelescope/WorldWide-Telescope-Layer-Control-API) | [https://www.gitbook.com/book/worldwidetelescope/worldwide-telescope-layer-control-api/details](https://www.gitbook.com/book/worldwidetelescope/worldwide-telescope-layer-control-api/details)
 | HTML5 Control Script Reference | Web Developers | [https://github.com/WorldWideTelescope/worldwide-telescope-web-control-script-reference](https://github.com/WorldWideTelescope/worldwide-telescope-web-control-script-reference) | [https://www.gitbook.com/book/worldwidetelescope/worldwide-telescope-web-control-script-reference/details](https://www.gitbook.com/book/worldwidetelescope/worldwide-telescope-web-control-script-reference/details)
