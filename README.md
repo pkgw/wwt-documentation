@@ -5,10 +5,6 @@ This is a meta repository to help navigate the documentation repositories of the
 ## What is WWT?
 WorldWide Telescope (WWT) is a visualization environment that enables your computer to function as a virtual telescope—bringing together imagery from the world’s best ground- and space-based telescopes for the exploration of the universe. WWT blends terabytes of images, information, and stories from multiple sources into a seamless, immersive, rich media experience. Explorers of all ages will feel empowered to explore and understand the cosmos using WWT’s simple and powerful user interface.
 
-## Contributing
-
-Please read our [contributing guide](/CONTRIBUTING.md)
-
 ## Documentation Repositories
 
 | Documentation | Target Audience | Repository |	Gitbook Site |
@@ -19,3 +15,11 @@ Please read our [contributing guide](/CONTRIBUTING.md)
 | Projection Reference | Windows Developers | [![](images/mark-github.svg "https://github.com/WorldWideTelescope/worldwide-telescope-projection-reference")](https://github.com/WorldWideTelescope/worldwide-telescope-projection-reference) | [![](images/file.svg "https://www.gitbook.com/book/worldwidetelescope/worldwide-telescope-projection-reference/details")](https://www.gitbook.com/book/worldwidetelescope/worldwide-telescope-projection-reference/details)
 | Data Tools Guide | Windows Developers | [![](images/mark-github.svg "https://github.com/WorldWideTelescope/worldwide-telescope-data-tools-guide")](https://github.com/WorldWideTelescope/worldwide-telescope-data-tools-guide) | [![](images/file.svg "https://www.gitbook.com/book/worldwidetelescope/worldwide-telescope-data-tools-guide/details")](https://www.gitbook.com/book/worldwidetelescope/worldwide-telescope-data-tools-guide/details)
 | Data Files Guide | Advanced Users, Developers | [![](images/mark-github.svg "https://github.com/WorldWideTelescope/worldwide-telescope-data-files-reference")](https://github.com/WorldWideTelescope/worldwide-telescope-data-files-reference) | [![](images/file.svg "https://www.gitbook.com/book/worldwidetelescope/worldwide-telescope-data-files-reference/details")](https://www.gitbook.com/book/worldwidetelescope/worldwide-telescope-data-files-reference/details)
+
+# Get Involved
+
+We would love your help in making our documentation better! Please read our contributing guide for more information. Please feel free to open an [issue](https://guides.github.com/features/issues/) or [send us an email](mailto:wwt@aas.org) with any questions.
+
+## Help Wanted
+
+To get started, please see the open issues in this repository or in the documentation repository in which you are most familiar.
