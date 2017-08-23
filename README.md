@@ -20,7 +20,7 @@ WorldWide Telescope (WWT) is a visualization environment that enables your compu
 
 # Get Involved
 
-We would love your help in making our documentation better! Please read our contributing guide for more information. Please feel free to open an [issue](https://guides.github.com/features/issues/) or [send us an email](mailto:wwt@aas.org) with any questions.
+We would love your help in making our documentation better! Please read our contributing guide for more information. Please feel free to open an [issue](https://guides.github.com/features/issues/) (by clicking [view this project on github](https://github.com/WorldWideTelescope/wwt-documentation)) or [send us an email](mailto:wwt@aas.org) with any questions.
 
 ## Help Wanted
 
