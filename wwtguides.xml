@@ -123,5 +123,17 @@ This tutorial has been created for two reasons. First, we want to demonstrate ho
   <Description>This document describes how to write a software program to send data to WorldWide Telescope Windows Client, using the Layer Control API (LCAPI).</Description>
       <Filename></Filename>
   </Guide>
-  </Guides>
+  <Guide>
+      <Title>Pyramid SDK Reference</Title>
+      <Audience>Windows Developers</Audience>
+      <Repository>https://github.com/WorldWideTelescope/worldwide-telescope-pyramid-sdk</Repository>
+      <URL>https://worldwidetelescope.gitbooks.io/worldwide-telescope-pyramid-sdk-reference/</URL>
+      <CreatedBy>WWT</CreatedBy>
+      <CreatedByURL>https://github.com/worldwidetelescope</CreatedByURL>
+      <MaintainedBy>WWT Community</MaintainedBy>
+      <MaintainedByURL>https://github.com/worldwidetelescope</MaintainedByURL>
+    <Description>This document describes a process that can be used to create tiled image pyramids to be used with WorldWide Telescope. A sample implementation of the interfaces and methods is included, and if your source data matches this closely then the sample code provided should work in full or in part for the task. If there are significant differences between the source data used in the samples and the source data you have, then this document should be used to describe a template for implementing the appropriate interfaces and methods.</Description>
+        <Filename></Filename>
+    </Guide>
 
+  </Guides>
