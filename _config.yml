@@ -5,3 +5,8 @@ description: >-
 twitter_username: wwtelescope
 github_username: WorldWideTelescope
 theme: jekyll-theme-minimal
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
