@@ -1,9 +1,18 @@
 # Welcome to WorldWide Telescope Documentation
 
-This is a meta repository to help navigate the documentation repositories of the [WorldWide Telescope](http://www.worldwidetelescope.org) community on GitHub.
+This is a meta repository to help navigate the documentation repositories of
+the [WorldWide Telescope](http://www.worldwidetelescope.org) community on
+GitHub.
 
 ## What is WWT?
-WorldWide Telescope (WWT) is a visualization environment that enables your computer to function as a virtual telescope—bringing together imagery from the world’s best ground- and space-based telescopes for the exploration of the universe. WWT blends terabytes of images, information, and stories from multiple sources into a seamless, immersive, rich media experience. Explorers of all ages will feel empowered to explore and understand the cosmos using WWT’s simple and powerful user interface.
+
+WorldWide Telescope (WWT) is a visualization environment that enables your
+computer to function as a virtual telescope—bringing together imagery from the
+world’s best ground- and space-based telescopes for the exploration of the
+universe. WWT blends terabytes of images, information, and stories from
+multiple sources into a seamless, immersive, rich media experience. Explorers
+of all ages will feel empowered to explore and understand the cosmos using
+WWT’s simple and powerful user interface.
 
 ## Documentation Repositories
 
@@ -20,14 +29,15 @@ WorldWide Telescope (WWT) is a visualization environment that enables your compu
 | Importing NASA SPICE Kernel Data into WorldWide Telescope | WWT Windows Community | |[![](assets/file.svg "https://www.gitbook.com/book/astrodavid/importing-spice-kernel-data-to-worldwide-telescop/details")](https://www.gitbook.com/book/astrodavid/importing-spice-kernel-data-to-worldwide-telescop/details)  | <a href="https://github.com/astrodavid"><img src="https://github.com/astrodavid.png" width=16> A David Weigel</a> | <a href="https://github.com/astrodavid"><img src="https://github.com/astrodavid.png" width=16> A David Weigel</a> |
 | Using WorldWide Telescope to produce Science Shorts | Planetarium Community |  |[![](assets/file.svg "https://www.gitbook.com/book/doctorspaceman/using-worldwide-telescope-to-produce-science-shor/details")](https://www.gitbook.com/book/doctorspaceman/using-worldwide-telescope-to-produce-science-shor/details) | <a href=https://github.com/doctorspaceman><img src="https://github.com/doctorspaceman.png" width=16> Doug Roberts </a> | <a href=https://github.com/doctorspaceman><img src="https://github.com/doctorspaceman.png" width=16> Doug Roberts </a>
 
-
-
-
-
 # Get Involved
 
-We would love your help in making our documentation better! Please read our contributing guide for more information. Please feel free to open an [issue](https://guides.github.com/features/issues/) (by clicking [view this project on github](https://github.com/WorldWideTelescope/wwt-documentation)) or [send us an email](mailto:wwt@aas.org) with any questions.
+We would love your help in making our documentation better! Please read our
+contributing guide for more information. Please feel free to open an
+[issue](https://guides.github.com/features/issues/) (by clicking
+[view this project on github](https://github.com/WorldWideTelescope/wwt-documentation))
+or [send us an email](mailto:wwt@aas.org) with any questions.
 
 ## Help Wanted
 
-To get started, please see the open issues in this repository or in the documentation repository in which you are most familiar.
+To get started, please see the open issues in this repository or in the
+documentation repository in which you are most familiar.
