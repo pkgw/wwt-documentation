@@ -1,4 +1,9 @@
-# Contributing Documentation to WorldWide Telescope
+---
+title: Contributing Documentation to AAS WorldWide Telescope
+permalink: "/contributing/"
+---
+
+# Contributing Documentation to AAS WorldWide Telescope
 
 We would love for you to contribute to the WorldWide Telescope’s documentation!
 
