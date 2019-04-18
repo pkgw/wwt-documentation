@@ -4,7 +4,7 @@ description: >-
   The hub for documentation relating to the AAS WorldWide Telescope.
 twitter_username: wwtelescope
 github_username: WorldWideTelescope
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
 exclude:
   - Gemfile
