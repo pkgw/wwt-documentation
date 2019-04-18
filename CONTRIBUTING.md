@@ -19,7 +19,7 @@ repository has a `SUMMARY.md` table of contents file in addition to a
 
 By contributing, you agree that we may redistribute your work under a
 [CC0 1.0 Universal license](LICENSE). Everyone involved in WorldWide Telescope
-agrees to abide by our [code of conduct](conduct.md).
+agrees to abide by our [code of conduct](./CODE_OF_CONDUCT.md).
 
 ## Acknowledgement
 
