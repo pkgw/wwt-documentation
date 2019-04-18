@@ -1,5 +1,6 @@
 ---
 title: WorldWide Telescope Documentation
+nav_order: 1
 ---
 
 # WorldWide Telescope Documentation

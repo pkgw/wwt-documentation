@@ -1,6 +1,7 @@
 ---
 title: AAS WorldWide Telescope Code of Conduct
 permalink: "/code-of-conduct/"
+nav_order: 3
 ---
 
 # AAS WorldWide Telescope Code of Conduct

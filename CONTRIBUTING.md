@@ -1,6 +1,7 @@
 ---
 title: Contributing Documentation to AAS WorldWide Telescope
 permalink: "/contributing/"
+nav_order: 2
 ---
 
 # Contributing Documentation to AAS WorldWide Telescope
