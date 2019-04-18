@@ -6,12 +6,15 @@ served via [Github Pages](https://pages.github.com/).
 
 You probably want to
 [go to the WWT Documentation Hub](https://worldwidetelescope.github.io/wwt-documentation/)
-now.
+now:
+
+<https://worldwidetelescope.github.io/wwt-documentation/>
 
 ## Contributions
 
-Are welcome! See [CONTRIBUTING](./CONTRIBUTING.md). We use a standard workflow
-with issues and pull requests.
+Are welcome! See [CONTRIBUTING](./CONTRIBUTING.md), which may also be found
+[here](https://worldwidetelescope.github.io/wwt-documentation/contributing/)
+in its styled form. We use a standard workflow with issues and pull requests.
 
 ## Local testing
 
