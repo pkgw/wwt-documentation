@@ -1,7 +1,12 @@
+---
+title: WorldWide Telescope Documentation
+---
+
 # WorldWide Telescope Documentation
 
 This repository indexes documentation of the
-[WorldWide Telescope](http://www.worldwidetelescope.org/).
+[WorldWide Telescope](http://www.worldwidetelescope.org/), brought to you by
+the [American Astronomical Society](https://aas.org/) (AAS).
 
 ## What is WWT?
 
