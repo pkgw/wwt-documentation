@@ -38,7 +38,7 @@ WWT’s simple and powerful user interface.
 ## Get Involved
 
 We would love your help in making our documentation better! Please read our
-[contributing guide](./CONTRIBUTING.md) for more information. The source code
-for this site lives at the
+[Contributors’ Guide](https://worldwidetelescope.github.io/contributing/) for
+more information. The source code for this site lives at the
 [wwt-documentation](https://github.com/WorldWideTelescope/wwt-documentation)
 repository.

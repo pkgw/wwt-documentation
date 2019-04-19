@@ -10,3 +10,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - CONTRIBUTING.md # canonical version is in `worldwidetelescope.github.io`
