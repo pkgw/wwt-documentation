@@ -35,6 +35,7 @@ WWT’s simple and powerful user interface.
 | Multi-Channel Dome Guide | [HTML](https://worldwidetelescope.gitbooks.io/worldwide-telescope-multi-channel-dome-setup/content/) | [worldwide-telescope-multi-channel-dome-setup](https://github.com/WorldWideTelescope/worldwide-telescope-multi-channel-dome-setup) |
 | Importing NASA SPICE Kernel Data into WorldWide Telescope | [HTML](https://astrodavid.gitbooks.io/importing-spice-kernel-data-to-worldwide-telescop/content/) | none? |
 | Using WorldWide Telescope to produce Science Shorts | [HTML](https://doctorspaceman.gitbooks.io/using-worldwide-telescope-to-produce-science-shor/content/) | none? |
+| Project Code of Conduct | [HTML](./CODE_OF_CONDUCT.md) | [wwt-documentation](https://github.com/WorldWideTelescope/wwt-documentation) |
 
 ## Get Involved
 
