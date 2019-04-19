@@ -24,6 +24,7 @@ WWT’s simple and powerful user interface.
 | Document | Rendered | Repository |
 |-- | -- | -- |
 | User Manual | [HTML](https://worldwidetelescope.gitbooks.io/worldwide-telescope-user-manual/content/) | [worldwide-telescope-manual](https://github.com/WorldWideTelescope/worldwide-telescope-manual) |
+| pywwt Manual and API Reference | [HTML](https://pywwt.readthedocs.io/) | [pywwt](https://github.com/WorldWideTelescope/pywwt) |
 | HTML5 Scripting Reference | [HTML](https://worldwidetelescope.gitbooks.io/worldwide-telescope-web-control-script-reference/content/) | [worldwide-telescope-web-control-script-reference](https://github.com/WorldWideTelescope/worldwide-telescope-web-control-script-reference) |
 | Layer Control API Documentation | [HTML](https://worldwidetelescope.gitbooks.io/worldwide-telescope-layer-control-api/content/) | [WorldWide-Telescope-Layer-Control-API](https://github.com/WorldWideTelescope/WorldWide-Telescope-Layer-Control-API) |
 | Projection Reference | [HTML](https://worldwidetelescope.gitbooks.io/worldwide-telescope-projection-reference/content/) | [worldwide-telescope-projection-reference](https://github.com/WorldWideTelescope/worldwide-telescope-projection-reference) |
